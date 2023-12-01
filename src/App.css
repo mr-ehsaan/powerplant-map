@@ -1,0 +1,19 @@
+/* In your CSS file */
+.state {
+  fill: #6b6464;
+  stroke: rgb(16, 11, 11);
+  stroke-width: 0.5;
+  z-index: 10001;
+}
+
+.county {
+  fill: #878181;
+  stroke: #ffffff;
+  stroke-width: 0.2;
+}
+
+.power-plant {
+  fill: red;
+  stroke: black;
+  stroke-width: 0.5;
+}
